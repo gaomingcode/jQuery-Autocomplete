@@ -1,4 +1,20 @@
 {
   "name":"gaomingcode/jquery.autocomplete",
-  "type": "library"
+    "description": "Ajax Autocomplete for jQuery allows you to easily create autocomplete/autosuggest boxes for text input fields. ",
+    "type": "library",
+    "license": [
+        "MIT"
+    ],
+    "keywords": [
+        "jquery", "autocomplete"
+    ],
+    "homepage": "https://www.devbridge.com/sourcery/components/jquery-autocomplete/",
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "authors": [
+        {
+            "name": "Tomas Kirda",
+            "homepage": "https://twitter.com/tkirda"
+        }
+    ]
 }
