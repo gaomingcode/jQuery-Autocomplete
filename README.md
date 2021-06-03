@@ -1,8 +1,17 @@
-Devbridge Group accelerates software to market for enterprise clients through dedicated product teams, user experience and software engineering expertise.
-
-[www.devbridge.com](http://www.devbridge.com/)
-
 # Ajax Autocomplete for jQuery
+
+[![GitHub Version](https://img.shields.io/github/release/gaomingcode/jquery-autocomplete.svg)](https://github.com/gaomingcode/jquery-autocomplete)
+[![Packagist Downloads](https://img.shields.io/packagist/dm/gaomingcode/jquery.autocomplete)](https://github.com/gaomingcode/jquery-autocomplete)
+[![Packagist License](https://img.shields.io/packagist/l/gaomingcode/jquery.autocomplete)](https://github.com/gaomingcode/jquery-autocomplete)
+
+## Installation
+
+### Composer
+
+```
+composer require gaomingcode/jquery.jquery.autocomplete
+```
+###
 
 Ajax Autocomplete for jQuery allows you to easily create
 autocomplete/autosuggest boxes for text input fields.
@@ -10,6 +19,7 @@ autocomplete/autosuggest boxes for text input fields.
 It has no dependencies other than jQuery.
 
 The standard jquery.autocomplete.js file is around 13KB when minified.
+
 
 ## API
 The following sets up autocomplete for input fields where `options` is an object literal that defines the settings to use for the autocomplete plugin.  All available option settings are shown in the tables below.  
